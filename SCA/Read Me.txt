@@ -1,0 +1,9 @@
+(VB) Source Code Analyser
+
+Anaylse your Visual Basic source code, improve it by identifying unused variables, constants or routines.
+
+Works either by project or project group.  Provides basic file and project statistics
+
+Can be run either as an Add-In or via a standalone executable.  If you want to run it as an AddIn it should become available on the AddIn menu just by compiling the AddIn dll (SCAAddIn.vbp).
+
+Any ideas for improvement?  Any problems?  Please let me know what you think.
